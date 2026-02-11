@@ -1,0 +1,11 @@
+ultralytics==8.1.0
+torch>=2.0
+torchvision
+opencv-python
+albumentations
+numpy
+matplotlib
+scikit-learn
+tqdm
+onnx
+onnxruntime

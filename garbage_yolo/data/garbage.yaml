@@ -1,0 +1,15 @@
+path: C:/Users/DELL/OneDrive/Desktop/EPICS/garbage_yolo/data/raw/GARBAGE_CLASSIFICATION
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 6
+names:
+  - BIODEGRADABLE
+  - CARDBOARD
+  - GLASS
+  - METAL
+  - PAPER
+  - PLASTIC
+
